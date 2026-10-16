@@ -1,0 +1,6 @@
+{
+  "name": "Aura Auctions",
+  "description": "Minimalist luxury auction platform featuring real-time bidding, automated invoice generation, secure payment gateway, and live outbid/winning notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
